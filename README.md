@@ -1,7 +1,7 @@
 # Machine Unlearning
 Exploring techniques to make models forget information
 
-Read at : [https://joe-arul.github.io/machine_unlearning.github.io/](https://joe-arul.github.io/machine_unlearning/)
+Read at : [https://joe-arul.github.io/machine_unlearning/](https://joe-arul.github.io/machine_unlearning/)
 
 **The field of Machine Unlearning specifically deals with removing the influence of data points from a model without having to retrain it from scratch – in other words, making a model forget certain information. The concept struck my interest as the process of deep learning is very similar to human learning – can model forgetting be related to how the human brain forgets information as well? – ***we all have memories we want to remember, memories we want to forget*** and maybe we can help the model too!**
 
