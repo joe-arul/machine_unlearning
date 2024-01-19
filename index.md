@@ -6,7 +6,7 @@ katex: true
 **By Joe Arul Susai Prakash for  the *ISM6930.Tech Foundation of AI* class.**
 
 
-This project served as an exercise for me to learn about machine *un*learning concepts, read papers on prior research, and figure out the best way to solve the problem at hand using existing methods. While I did intend to produce a new unlearning methodology initially when I undertook this project for class, the ideas presented in the scientific papers that I read have been formulated over years of research in the field, and I felt that it would be infeasible for me to learn and reproduce such an effort for a class project. Therefore, in this project report, I hope to add value to the reader by explaining the approach I took to solve an unlearning problem.
+This project served as an exercise for me to learn about machine *un*learning concepts, read papers on prior research, and figure out the best way to solve the problem at hand using existing methods. While I did intend to produce a new unlearning methodology initially when I undertook this project for class, the ideas presented in the scientific papers that I read have been formulated over years of research in the field, and I felt that it would be infeasible for me to learn and reproduce such an effort for a class project. Therefore, in this project report, I hope to add value to the reader by explaining my learning in this field and the approach I took to solve an unlearning problem.
 Hope you enjoy the read 😊
 
 ### Overview:
